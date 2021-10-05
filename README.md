@@ -1,1 +1,1 @@
-#Learning the basics of HTML, css and Javascript.
+Learning the basics of HTML, css and Javascript.
